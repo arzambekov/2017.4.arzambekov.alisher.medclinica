@@ -1,0 +1,32 @@
+Название: Med Clinic
+
+Описание: Проект предназначен для учета клиентов в медицинских учреждениях.
+
+Основные модули проекта:
+1.CRUD Client - Клиент может выбирать врача, время посещение врача.
+2.CRUD Staff - Врачь может смотреть список людей,которые придут на прием к врачу. Редактировать свое время посещение. 
+3.CRUD Tickets - Талоны предназначены для того, чтобы посещать врача. 
+4.CRUD Administration - Администратор может редактировать как и клиентов, так и врачей.
+
+Client - has information as below:
+1. ID tickets
+2. Name. Surname
+3. Telephon number
+4. 
+
+Staff - has information as below:
+1. ID staff
+2. Name, Surname
+3. Telephone number
+4. Specialization
+5. Work Time
+
+Tickets - has information as below:
+1. ID tickets
+2. Name staff
+3. Time -from -to
+
+Administration - has information as below:
+1. CRUD Client
+2. CRUD Staff
+3. CRUD TICKETS
