@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Implementation-Title: education.client
+Implementation-Version: 001
+Implementation-Vendor: greetgo!
+Built-By: arzam
+Built-At: 2017-09-30/13:37:30
+
